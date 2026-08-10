@@ -25,7 +25,7 @@ Recruiting AI is where I do it commercially: three live products, real customers
 Edtech, games and research are where I do it because the problem was interesting and nobody had
 built the thing I wanted. The hard part was never the code — it's deciding what deserves to exist.
 
-Aerospace at IIT Kharagpur on paper. Almost none of the above is aerospace.
+Metallurgical and Materials Engineering at IIT Kharagpur on paper. Almost none of the above is metallurgy.
 
 ---
 
