@@ -1,6 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img src="./banner-light.svg" alt="Sudhanshu Mishra — I build products, then figure out how to sell them">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-light.svg" alt="Sudhanshu Mishra — I build products, then figure out how to sell them">
 </picture>
 
 <p align="center">
