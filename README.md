@@ -31,7 +31,7 @@ Metallurgical and Materials Engineering at IIT Kharagpur on paper. Almost none o
 
 ## Products I run
 
-| | What it is | Stack |
+| Product | What it is | Stack |
 |---|---|---|
 | **[Superhyre](https://www.superhyre.com)** | WhatsApp-native recruitment automation — sourcing, outreach and pipeline in one thread | Next.js · Supabase · Baileys |
 | **[RekZon](https://rekzon.com)** | AI-native recruiting platform: sources candidates across the web, scores them against a JD, runs bulk WhatsApp + email outreach. Ships its own Android dialer with call recording | Vite · Node · Supabase · Expo |
@@ -98,7 +98,7 @@ flowchart LR
 
 ## Built because I wanted it to exist
 
-| | What it is |
+| Project | What it is |
 |---|---|
 | **[easycbse](https://github.com/Sudhanshu-SM/easycbse)** · [live](https://www.easycbse.com) | Free NCERT textbooks for every CBSE class and subject. The official portal is slow, unsearchable and serves scans one chapter at a time — this doesn't. |
 | **[Project-Mahabharat](https://github.com/Sudhanshu-SM/Project-Mahabharat)** | RAG chatbot that holds a conversation in character as figures from the Mahabharata. LLaMA-3 via Groq, HuggingFace embeddings, Pinecone over 30+ ingested books, SQLite for persistent history. |
@@ -147,26 +147,6 @@ content access would fail where charging for learning outcomes won't.
     &nbsp;<code>n8n</code>
   </td></tr>
 </table>
-
----
-
-## Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sudhanshu-SM&theme=github-dark-blue&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF">
-    <img src="https://streak-stats.demolab.com?user=Sudhanshu-SM&theme=default&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" alt="Contribution streak">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-SM&theme=github-compact&hide_border=true&radius=6&color=2DD4BF&line=2DD4BF&point=f0f6fc&bg_color=0d1117">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-SM&theme=github-light&hide_border=true&radius=6&color=0F766E&line=0F766E&point=1f2328&bg_color=ffffff" alt="Contribution activity over the last year">
-  </picture>
-</p>
-
-<sub align="center">Most of what I ship lives in private repos — the graph counts those, the repo list doesn't.</sub>
 
 ---
 
