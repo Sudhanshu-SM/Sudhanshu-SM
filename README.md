@@ -117,13 +117,13 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 
 ## `git log --author=sudhanshu`
 
-**Founder · [RekZon](https://rekzon.com)**<br>
+**Founder · [RekZon](https://rekzon.com)** — *Apr 2026 – present*<br>
 AI-native recruiting — sourcing, JD scoring, bulk outreach, and an Android dialer with call recording.
 
-**Co-founder · [Magnifi](https://www.getmagnifi.com)**<br>
+**Co-founder · [Magnifi](https://www.getmagnifi.com)** — *Mar 2026 – present*<br>
 Multi-tenant WhatsApp CRM with per-organisation encryption at rest.
 
-**Founding Engineer · [Superhyre](https://www.superhyre.com)**<br>
+**Founding Engineer · [Superhyre](https://www.superhyre.com)** — *Dec 2025 – present*<br>
 Voice agent on Twilio, Deepgram and Gemini that calls and screens candidates at sub-second latency.
 
 **Technical Head · Business Club, IIT Kharagpur** — *2024 – present*<br>
