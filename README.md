@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=700&height=55&lines=I+ship+products%2C+not+prototypes.;AI+%C2%B7+edtech+%C2%B7+agents+%C2%B7+games;Four+live.+Building+the+next." alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
 </p>
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=300&height=45&lines=%24%20whoami;%24%20whoami" alt="whoami"></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&center=true&vCenter=true&width=300&height=45&lines=%24%20whoami;%24%20whoami" alt="whoami"></h2>
 
 I find problems that annoy me and build the fix.
 
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20products%2F;%24%20ls%20products%2F" alt="ls products/"></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20products%2F;%24%20ls%20products%2F;%24%20ls%20products%2F" alt="ls products/"></h2>
 
 <table>
 <tr>
