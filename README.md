@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-light.svg">
-  <img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/banner-light.svg" alt="Sudhanshu Mishra">
-</picture>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/banner.svg" alt="Sudhanshu Mishra" width="100%">
 
 <p align="center">
   <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg?v=2" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
@@ -148,6 +144,14 @@ Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
+
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-graph.svg" alt="$ git log --graph"></h2>
+
+<p align="center">
+  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/contributions.svg" alt="511 contributions in the last year" width="100%">
+</p>
+
+<p align="center"><sub>511 contributions in the last year · private repos included — most of what I ship isn’t public</sub></p>
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg" alt="$ cat contact.txt"></h2>
 

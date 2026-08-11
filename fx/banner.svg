@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" width="1280" height="220" role="img" aria-label="Sudhanshu Mishra">
+<style>
+  :root { --bg:#ffffff; --fg:#1f2328; --a:#0F766E; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0d1117; --fg:#f0f6fc; --a:#2DD4BF; } }
+  .n { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+</style>
+<rect width="1280" height="220" fill="var(--bg)"/>
+  <path id="p0" d="M812 52 C880 52 890 110 946 110" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+  <path id="p1" d="M812 110 C880 110 890 110 946 110" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+  <path id="p2" d="M812 168 C880 168 890 110 946 110" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+  <path id="p3" d="M1010 110 C1066 110 1076 52 1144 52" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+  <path id="p4" d="M1010 110 C1066 110 1076 110 1144 110" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+  <path id="p5" d="M1010 110 C1066 110 1076 168 1144 168" fill="none" stroke="var(--a)" stroke-width="1.25" opacity="0.28"/>
+<circle cx="812" cy="52" r="5" fill="var(--a)" opacity="0.5"/><circle cx="812" cy="110" r="5" fill="var(--a)" opacity="0.5"/><circle cx="812" cy="168" r="5" fill="var(--a)" opacity="0.5"/><circle cx="1144" cy="52" r="5" fill="var(--a)" opacity="0.5"/><circle cx="1144" cy="110" r="5" fill="var(--a)" opacity="0.5"/><circle cx="1144" cy="168" r="5" fill="var(--a)" opacity="0.5"/>
+<rect x="946" y="82" width="64" height="56" rx="6" fill="none" stroke="var(--a)" stroke-width="1.75" opacity="0.6"/>
+<circle cx="978" cy="110" r="6" fill="var(--a)">
+  <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="0.0s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="0.5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="1.0s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="1.8s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="2.3s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="2.3s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="2.8s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="2.8s" repeatCount="indefinite"/></circle>
+<g class="n">
+  <text x="80" y="80" fill="var(--a)" font-size="15" font-weight="600" letter-spacing="3.4">PRODUCT BUILDER · IIT KHARAGPUR '27</text>
+  <text x="78" y="152" fill="var(--fg)" font-size="62" font-weight="700" letter-spacing="-1.4">Sudhanshu Mishra</text>
+</g>
+<rect x="80" y="180" width="112" height="4" rx="2" fill="var(--a)"/>
+</svg>
