@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
+  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg?v=2" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
 </p>
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/whoami.svg" alt="$ whoami"></h2>
