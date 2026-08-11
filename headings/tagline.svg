@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 55" width="700" height="55" role="img" aria-label="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
+  <style>
+    :root { --accent:#0F766E; }
+    @media (prefers-color-scheme: dark) { :root { --accent:#2DD4BF; } }
+    .l {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 22px; font-weight: 600; fill: var(--accent);
+      opacity: 0; animation: cyc 12s linear infinite;
+    }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    @keyframes cyc {
+      0%   { opacity: 0; }
+      3%   { opacity: 1; }
+      33%  { opacity: 1; }
+      36%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .l  { animation: none; opacity: 1; }
+      .l2, .l3 { display: none; }
+    }
+  </style>
+  <text class="l"    x="350" y="30" text-anchor="middle" dominant-baseline="middle">I ship products, not prototypes.</text>
+  <text class="l l2" x="350" y="30" text-anchor="middle" dominant-baseline="middle">AI · edtech · agents · games</text>
+  <text class="l l3" x="350" y="30" text-anchor="middle" dominant-baseline="middle">Four live. Building the next.</text>
+</svg>
