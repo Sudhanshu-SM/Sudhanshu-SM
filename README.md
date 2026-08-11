@@ -20,7 +20,7 @@ Sources candidates across the web, scores them against a JD, runs bulk WhatsApp 
 
 `Vite` `Node` `Supabase` `Expo`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-rekzon.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-rekzon.svg?v=2" alt="" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -31,7 +31,7 @@ Multi-tenant WhatsApp CRM. Every message body and chat name encrypted at rest, p
 
 `Next.js 14` `Express` `Supabase`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-magnifi.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-magnifi.svg?v=2" alt="" width="100%">
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ Every NCERT textbook, free and actually searchable. Built because the official p
 
 `Next.js` `TypeScript`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-easycbse.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-easycbse.svg?v=2" alt="" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@ WhatsApp-native recruitment automation — sourcing, outreach and pipeline in a 
 
 `Next.js` `Supabase` `Baileys`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-superhyre.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-superhyre.svg?v=2" alt="" width="100%">
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ A chatbot that holds a conversation in character as figures from the Mahabharata
 
 `Flask` `LangChain` `Groq` `Pinecone`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-mahabharat.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-mahabharat.svg?v=2" alt="" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Daily guessing game. Five hints per puzzle, vague to precise, same five challeng
 
 `Next.js` `TypeScript`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-guessstupid.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-guessstupid.svg?v=2" alt="" width="100%">
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Learn and chant shlokas with pronunciation, tune and meaning. Syllable-level aud
 
 `React` `TypeScript` `Supabase`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-sanatan.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-sanatan.svg?v=2" alt="" width="100%">
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +108,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 
 `HTML` `CSS` `JavaScript`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-icc.svg" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-icc.svg?v=2" alt="" width="100%">
 
 </td>
 </tr>
