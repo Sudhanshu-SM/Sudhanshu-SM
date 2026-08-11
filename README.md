@@ -117,22 +117,22 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 
 ## `git log --author=sudhanshu`
 
-**Founder · [RekZon](https://rekzon.com)**
+**Founder · [RekZon](https://rekzon.com)**<br>
 AI-native recruiting — sourcing, JD scoring, bulk outreach, and an Android dialer with call recording.
 
-**Co-founder · [Magnifi](https://www.getmagnifi.com)**
+**Co-founder · [Magnifi](https://www.getmagnifi.com)**<br>
 Multi-tenant WhatsApp CRM with per-organisation encryption at rest.
 
-**Founding Engineer · [Superhyre](https://www.superhyre.com)**
+**Founding Engineer · [Superhyre](https://www.superhyre.com)**<br>
 Voice agent on Twilio, Deepgram and Gemini that calls and screens candidates at sub-second latency.
 
-**Technical Head · Business Club, IIT Kharagpur** — *2024 – present*
+**Technical Head · Business Club, IIT Kharagpur** — *2024 – present*<br>
 Ran the Indian Case Challenge twice. The 2026 edition drew 9,700+ participants from 1,000+ institutions.
 
-**Research Intern · IIT Roorkee** — *Jun – Aug 2024*
+**Research Intern · IIT Roorkee** — *Jun – Aug 2024*<br>
 Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 
-**Research Intern · XLRI Jamshedpur** — *May – Jun 2024*
+**Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
 
 ## `cat contact.txt`
