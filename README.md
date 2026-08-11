@@ -5,15 +5,15 @@
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/tagline.svg" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
+  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
 </p>
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/whoami.svg" alt="$ whoami"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/whoami.svg" alt="$ whoami"></h2>
 
 I find problems that annoy me and build the fix.
 
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/ls-products.svg" alt="$ ls products/"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-products.svg" alt="$ ls products/"></h2>
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ WhatsApp-native recruitment automation — sourcing, outreach and pipeline in a 
 </tr>
 </table>
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/ls-projects.svg" alt="$ ls projects/"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-projects.svg" alt="$ ls projects/"></h2>
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 </tr>
 </table>
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/cat-stack.svg" alt="$ cat stack.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-stack.svg" alt="$ cat stack.txt"></h2>
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" height="38" alt="Python, TypeScript, JavaScript, C++, C"></td></tr>
@@ -114,7 +114,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 <tr><td><b>Infra</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,railway,vercel" height="38" alt="Docker, GitHub Actions, Railway, Vercel"> &nbsp;<code>n8n</code></td></tr>
 </table>
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/git-log.svg" alt="$ git log --author=sudhanshu"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-log.svg" alt="$ git log --author=sudhanshu"></h2>
 
 **Founder · [RekZon](https://rekzon.com)** — *Apr 2026 – present*<br>
 AI-native recruiting — sourcing, JD scoring, bulk outreach, and an Android dialer with call recording.
@@ -134,7 +134,7 @@ Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
 
-<h2><img src="https://raw.githubusercontent.com/Sudhanshu-SM/Sudhanshu-SM/main/headings/cat-contact.svg" alt="$ cat contact.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg" alt="$ cat contact.txt"></h2>
 
 <p align="center">
   Building something in recruiting, edtech or agents? I'd like to hear about it.
