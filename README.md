@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=700&height=55&lines=I+ship+products%2C+not+prototypes.;AI+%C2%B7+edtech+%C2%B7+agents+%C2%B7+games;Four+live.+Building+the+next." alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
 </p>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=300&height=45&lines=%24%20whoami" alt="whoami"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=300&height=45&lines=%24%20whoami;%24%20whoami" alt="whoami"></h2>
 
 I find problems that annoy me and build the fix.
 
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20products%2F" alt="ls products/"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20products%2F;%24%20ls%20products%2F" alt="ls products/"></h2>
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ WhatsApp-native recruitment automation — sourcing, outreach and pipeline in a 
 </tr>
 </table>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20projects%2F" alt="ls projects/"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=400&height=45&lines=%24%20ls%20projects%2F;%24%20ls%20projects%2F" alt="ls projects/"></h2>
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 </tr>
 </table>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=430&height=45&lines=%24%20cat%20stack.txt" alt="cat stack.txt"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=430&height=45&lines=%24%20cat%20stack.txt;%24%20cat%20stack.txt" alt="cat stack.txt"></h2>
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" height="38" alt="Python, TypeScript, JavaScript, C++, C"></td></tr>
@@ -114,7 +114,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 <tr><td><b>Infra</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,railway,vercel" height="38" alt="Docker, GitHub Actions, Railway, Vercel"> &nbsp;<code>n8n</code></td></tr>
 </table>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=680&height=45&lines=%24%20git%20log%20--author%3Dsudhanshu" alt="git log --author=sudhanshu"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=680&height=45&lines=%24%20git%20log%20--author%3Dsudhanshu;%24%20git%20log%20--author%3Dsudhanshu" alt="git log --author=sudhanshu"></h2>
 
 **Founder · [RekZon](https://rekzon.com)** — *Apr 2026 – present*<br>
 AI-native recruiting — sourcing, JD scoring, bulk outreach, and an Android dialer with call recording.
@@ -134,7 +134,7 @@ Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
 
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=460&height=45&lines=%24%20cat%20contact.txt" alt="cat contact.txt"></p>
+<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=12000&color=14B8A6&vCenter=true&width=460&height=45&lines=%24%20cat%20contact.txt;%24%20cat%20contact.txt" alt="cat contact.txt"></h2>
 
 <p align="center">
   Building something in recruiting, edtech or agents? I'd like to hear about it.
