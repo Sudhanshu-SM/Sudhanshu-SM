@@ -13,3 +13,48 @@
 I find problems that annoy me and build the fix.
 
 Some of them turned into companies. Some are just for me and about forty other people.
+
+## Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [RekZon](https://rekzon.com)
+
+Sources candidates across the web, scores them against a JD, runs bulk WhatsApp and email outreach. Ships its own Android dialer with call recording.
+
+`Vite` `Node` `Supabase` `Expo`
+
+</td>
+<td width="50%" valign="top">
+
+### [Magnifi](https://www.getmagnifi.com)
+
+Multi-tenant WhatsApp CRM. Every message body and chat name encrypted at rest, per organisation.
+
+`Next.js 14` `Express` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [easycbse](https://www.easycbse.com)
+
+Every NCERT textbook, free and actually searchable. Built because the official portal isn't.
+
+`Next.js` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [Superhyre](https://www.superhyre.com)
+
+WhatsApp-native recruitment automation — sourcing, outreach and pipeline in a single thread.
+
+`Next.js` `Supabase` `Baileys`
+
+</td>
+</tr>
+</table>
