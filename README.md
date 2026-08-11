@@ -134,3 +134,21 @@ Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 
 **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
+
+## `cat contact.txt`
+
+<p align="center">
+  Building something in recruiting, edtech or agents? I'd like to hear about it.
+</p>
+
+<p align="center">
+  <a href="https://rekzon.com"><img src="https://img.shields.io/badge/rekzon.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rekzon.com"></a>
+  <a href="https://www.getmagnifi.com"><img src="https://img.shields.io/badge/getmagnifi.com-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="getmagnifi.com"></a>
+  <a href="https://www.easycbse.com"><img src="https://img.shields.io/badge/easycbse.com-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="easycbse.com"></a>
+  <a href="https://www.superhyre.com"><img src="https://img.shields.io/badge/superhyre.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="superhyre.com"></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sudhanshu-mishra-6a70a3287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sudhanshu26112004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
