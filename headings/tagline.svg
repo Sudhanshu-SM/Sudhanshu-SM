@@ -2,26 +2,10 @@
   <style>
     :root { --accent:#0F766E; }
     @media (prefers-color-scheme: dark) { :root { --accent:#2DD4BF; } }
-    .l {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 22px; font-weight: 600; fill: var(--accent);
-      opacity: 0; animation: cyc 12s linear infinite;
-    }
-    .l2 { animation-delay: 4s; }
-    .l3 { animation-delay: 8s; }
-    @keyframes cyc {
-      0%   { opacity: 0; }
-      3%   { opacity: 1; }
-      33%  { opacity: 1; }
-      36%  { opacity: 0; }
-      100% { opacity: 0; }
-    }
-    @media (prefers-reduced-motion: reduce) {
-      .l  { animation: none; opacity: 1; }
-      .l2, .l3 { display: none; }
-    }
+    .l { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+         font-size: 22px; font-weight: 600; fill: var(--accent); }
   </style>
-  <text class="l"    x="350" y="30" text-anchor="middle" dominant-baseline="middle">I ship products, not prototypes.</text>
-  <text class="l l2" x="350" y="30" text-anchor="middle" dominant-baseline="middle">AI · edtech · agents · games</text>
-  <text class="l l3" x="350" y="30" text-anchor="middle" dominant-baseline="middle">Four live. Building the next.</text>
+  <text class="l" x="350" y="30" text-anchor="middle" dominant-baseline="middle" opacity="0">I ship products, not prototypes.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.31;0.35;1" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="l" x="350" y="30" text-anchor="middle" dominant-baseline="middle" opacity="0">AI · edtech · agents · games<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.31;0.35;1" dur="12s" begin="4s" repeatCount="indefinite"/></text>
+  <text class="l" x="350" y="30" text-anchor="middle" dominant-baseline="middle" opacity="0">Four live. Building the next.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.31;0.35;1" dur="12s" begin="8s" repeatCount="indefinite"/></text>
 </svg>
