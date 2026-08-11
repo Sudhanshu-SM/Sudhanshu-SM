@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 251 46" width="251" height="46" role="img" aria-label="$ cat contact.txt">
+  <style>
+    :root { --fg:#1f2328; --accent:#0F766E; --track:#0F766E33; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fg:#f0f6fc; --accent:#2DD4BF; --track:#2DD4BF33; }
+    }
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+         font-size: 24px; font-weight: 700; }
+    .fg { fill: var(--fg); }
+    .ac { fill: var(--accent); }
+    .track { fill: var(--track); }
+    .bar { fill: var(--accent); animation: sweep 3.4s ease-in-out infinite; }
+    @keyframes sweep { 0%,100% { transform: translateX(0); } 50% { transform: translateX(172px); } }
+    @media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
+  </style>
+  <text class="t" x="0" y="27" dominant-baseline="middle">
+    <tspan class="ac">$</tspan><tspan class="fg" dx="14.399999999999999">cat contact.txt</tspan>
+  </text>
+  <rect class="track" x="0" y="40" width="245" height="3" rx="1.5"/>
+  <rect class="bar" x="0" y="40" width="73" height="3" rx="1.5"/>
+</svg>
