@@ -103,3 +103,14 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 </td>
 </tr>
 </table>
+
+## `cat stack.txt`
+
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" height="38" alt="Python, TypeScript, JavaScript, C++, C"></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="38" alt="PyTorch, TensorFlow, scikit-learn, OpenCV"> &nbsp;<code>LangChain</code> <code>RAG</code> <code>Hugging Face</code> <code>Pinecone</code></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,redis,supabase" height="38" alt="FastAPI, Flask, Node.js, Express, PostgreSQL, Redis, Supabase"></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" height="38" alt="Next.js, React, Tailwind, Vite"></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react,kotlin" height="38" alt="React Native, Kotlin"> &nbsp;<code>Expo</code> <code>EAS</code></td></tr>
+<tr><td><b>Infra</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,railway,vercel" height="38" alt="Docker, GitHub Actions, Railway, Vercel"> &nbsp;<code>n8n</code></td></tr>
+</table>
