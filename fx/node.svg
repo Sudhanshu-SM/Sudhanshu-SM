@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="14" height="14" role="img" aria-label="">
+  <style>:root{--a:#0F766E}@media(prefers-color-scheme:dark){:root{--a:#2DD4BF}}</style>
+  <circle cx="8" cy="8" r="4" fill="var(--a)"/>
+  <circle cx="8" cy="8" r="4" fill="none" stroke="var(--a)" stroke-width="1.5">
+    <animate attributeName="r" values="4;7.2;4" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

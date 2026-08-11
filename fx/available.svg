@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 30" width="300" height="30" role="img" aria-label="Open to conversations">
+  <style>
+    :root{--a:#16A34A;--t:#1f2328;--b:#16A34A18}
+    @media(prefers-color-scheme:dark){:root{--a:#4ADE80;--t:#f0f6fc;--b:#4ADE8022}}
+    .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;font-weight:600;fill:var(--t)}
+  </style>
+  <rect x="0" y="3" width="300" height="24" rx="12" fill="var(--b)"/>
+  <circle cx="18" cy="15" r="4" fill="var(--a)"/>
+  <circle cx="18" cy="15" r="4" fill="none" stroke="var(--a)" stroke-width="1.5">
+    <animate attributeName="r" values="4;9;4" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text class="t" x="32" y="15" dominant-baseline="middle">open to conversations</text>
+</svg>
