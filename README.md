@@ -152,7 +152,7 @@ Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-education.svg" alt="$ cat education.txt"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **B.Tech. (Hons.), Metallurgical and Materials Engineering** — *IIT Kharagpur, 2023 – 2027*<br>
-CGPA 8.59/10 · Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Innovation**
+Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Innovation**
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-awards.svg" alt="$ cat awards.txt"></h2>
 
