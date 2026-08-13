@@ -23,7 +23,7 @@
   <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="2.3s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="2.3s" repeatCount="indefinite"/></circle>
   <circle r="3.2" fill="var(--a)"><animateMotion dur="3.4s" begin="2.8s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" begin="2.8s" repeatCount="indefinite"/></circle>
 <g class="n">
-  <text x="80" y="80" fill="var(--a)" font-size="15" font-weight="600" letter-spacing="3.4">PRODUCT BUILDER · IIT KHARAGPUR '27</text>
+  <text x="80" y="80" fill="var(--a)" font-size="15" font-weight="600" letter-spacing="3.4">PRODUCT BUILDER · APPLIED AI · 0 TO 1</text>
   <text x="78" y="152" fill="var(--fg)" font-size="62" font-weight="700" letter-spacing="-1.4">Sudhanshu Mishra</text>
 </g>
 <rect x="80" y="180" width="112" height="4" rx="2" fill="var(--a)"/>

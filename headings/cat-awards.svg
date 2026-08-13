@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237 46" width="237" height="46" role="img" aria-label="$ cat awards.txt">
+  <style>
+    :root { --fg:#1f2328; --accent:#0F766E; --track:#0F766E33; }
+    @media (prefers-color-scheme: dark) { :root { --fg:#f0f6fc; --accent:#2DD4BF; --track:#2DD4BF33; } }
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:24px; font-weight:700; }
+  </style>
+  <text class="t" x="0" y="27" dominant-baseline="middle"><tspan fill="var(--accent)">$</tspan><tspan fill="var(--fg)" dx="14.399999999999999">cat awards.txt</tspan></text>
+  <rect x="0" y="40" width="231" height="3" rx="1.5" fill="var(--track)"/>
+  <rect y="40" width="69" height="3" rx="1.5" fill="var(--accent)">
+    <animate attributeName="x" values="0;162;0" keyTimes="0;0.5;1" dur="3.4s" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" repeatCount="indefinite"/>
+  </rect>
+</svg>

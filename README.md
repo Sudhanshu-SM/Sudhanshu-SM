@@ -1,4 +1,4 @@
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/banner.svg" alt="Sudhanshu Mishra" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/banner.svg?v=2" alt="Sudhanshu Mishra" width="100%">
 
 <p align="center">
   <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg?v=2" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
@@ -12,50 +12,43 @@ I find problems that annoy me and build the fix. <img src="https://sudhanshu-sm.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [RekZon](https://rekzon.com "rekzon.com — AI-native recruiting platform")
-
-Sources candidates across the web, scores them against a JD, runs bulk WhatsApp and email outreach. Ships its own Android dialer with call recording.
-
-`Vite` `Node` `Supabase` `Expo`
-
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-rekzon.svg?v=2" alt="" width="100%">
-
-</td>
-<td width="50%" valign="top">
+<td width="33%%" valign="top">
 
 ### [Magnifi](https://www.getmagnifi.com "getmagnifi.com — multi-tenant WhatsApp CRM")
 
-Multi-tenant WhatsApp CRM. Every message body and chat name encrypted at rest, per organisation.
+Per-org encrypted multi-inbox WhatsApp CRM. AI escalation flagging, workflow automations, and *ask magnifi* answering questions across org chats on Claude Haiku.
 
-`Next.js 14` `Express` `Supabase`
+**20+ teams · 118K messages/month · 200K+ handled**
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-magnifi.svg?v=2" alt="" width="100%">
+`Next.js 14` `Express` `Supabase` `Claude`
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-magnifi.svg?v=2" alt="" width="100%%">
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%%" valign="top">
+
+### [RekZon](https://rekzon.com "rekzon.com — AI-native recruiting platform")
+
+Kanban candidate pipeline with AI matching against the JD, one-click bulk WhatsApp and email outreach, recruiter analytics, a Chrome extension and an Android dialer.
+
+**10+ clients on trial · Reklis extension, 10+ users**
+
+`Vite` `Node` `Supabase` `Expo`
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-rekzon.svg?v=2" alt="" width="100%%">
+
+</td>
+<td width="33%%" valign="top">
 
 ### [easycbse](https://www.easycbse.com "easycbse.com — free NCERT textbooks")
 
 Every NCERT textbook, free and actually searchable. Built because the official portal isn't.
 
+**Fast downloads, every class and subject**
+
 `Next.js` `TypeScript`
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-easycbse.svg?v=2" alt="" width="100%">
-
-</td>
-<td width="50%" valign="top">
-
-### [Superhyre](https://www.superhyre.com "superhyre.com — WhatsApp-native recruitment automation")
-
-WhatsApp-native recruitment automation — sourcing, outreach and pipeline in a single thread.
-
-`Next.js` `Supabase` `Baileys`
-
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-superhyre.svg?v=2" alt="" width="100%">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/accent-easycbse.svg?v=2" alt="" width="100%%">
 
 </td>
 </tr>
@@ -127,17 +120,20 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-log.svg" alt="$ git log --author=sudhanshu"></h2>
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founder · [RekZon](https://rekzon.com "rekzon.com")** — *Apr 2026 – present*<br>
-AI-native recruiting — sourcing, JD scoring, bulk outreach, and an Android dialer with call recording.
-
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Co-founder · [Magnifi](https://www.getmagnifi.com "getmagnifi.com")** — *Mar 2026 – present*<br>
-Multi-tenant WhatsApp CRM with per-organisation encryption at rest.
+Onboarded 20+ teams now pushing 118K messages a month. Per-org encryption at rest, AI escalation flagging across 7 categories, and retrieval-backed chat search over 16K+ conversations.
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founding Engineer · [Superhyre](https://www.superhyre.com "superhyre.com")** — *Dec 2025 – present*<br>
-Voice agent on Twilio, Deepgram and Gemini that calls and screens candidates at sub-second latency.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founder · [RekZon](https://rekzon.com "rekzon.com")** — *Apr 2026 – present*<br>
+Recruiting platform on free trial with 10+ clients. JD matching, bulk outreach, org-wide analytics, a Chrome extension with 10+ users, and an Android dialer with AI-scored transcripts.
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Technical Head · Business Club, IIT Kharagpur** — *2024 – present*<br>
-Ran the Indian Case Challenge twice. The 2026 edition drew 9,700+ participants from 1,000+ institutions.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Product Intern · FreeFlow Advisors LLP** — *Mar – May 2026*<br>
+Defined the data model for Indian education — category-wise cutoffs through coaching coverage. Scrapers turned scattered public records into a queryable base of 100K+ colleges and 500K+ schools.
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founder’s Office Intern · [Superhyre](https://www.superhyre.com "superhyre.com")** — *Dec 2025 – Jul 2026*<br>
+Postgres with pgvector embeddings behind an AppSmith dashboard, a waterfall enrichment pipeline chaining Apollo and ContactOut to cut cost per contact, and an AI voice agent screening candidates at sub-second latency.
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Technical Head · Business Club, IIT Kharagpur** — *Aug 2023 – Apr 2026*<br>
+Negotiated HCLTech and CFA Institute as sponsors of the Indian Case Challenge 2026, raising INR 5L+ in prizes. Led a 70-member publicity team across 1,000+ institutes to 9,700+ participants, 300+ international.
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Intern · IIT Roorkee** — *Jun – Aug 2024*<br>
 Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
@@ -152,6 +148,18 @@ Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier
 </p>
 
 <p align="center"><sub>511 contributions in the last year · private repos included — most of what I ship isn’t public</sub></p>
+
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-education.svg" alt="$ cat education.txt"></h2>
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **B.Tech. (Hons.), Metallurgical and Materials Engineering** — *IIT Kharagpur, 2023 – 2027*<br>
+CGPA 8.59/10 · Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Innovation**
+
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-awards.svg" alt="$ cat awards.txt"></h2>
+
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Contingent Gold**, Inter IIT Tech Meet — *2024 and 2025*, with the IIT Kharagpur contingent<br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **National Finalist**, Crisis Consulting Case Study Competition — *SRCC Delhi, 2024*<br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Tata Scholarship**, INR 75,000/year, and the **Jagran Genius Award** for Class XII<br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Consultant, WorldQuant Brain** — 6 commissioned alphas across regions and operations
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg" alt="$ cat contact.txt"></h2>
 
@@ -172,5 +180,5 @@ Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier
 
 <p align="center">
   <a href="https://linkedin.com/in/sudhanshu-mishra-6a70a3287" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sudhanshu26112004@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sudhanshu@rekzon.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
