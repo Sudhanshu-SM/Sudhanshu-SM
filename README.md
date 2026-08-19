@@ -1,14 +1,14 @@
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/banner.svg?v=2" alt="Sudhanshu Mishra" width="100%">
 
 <p align="center">
-  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg?v=2" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
+  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/tagline.svg?v=3" alt="I ship products, not prototypes. AI, edtech, agents, games. Four live, building the next.">
 </p>
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/whoami.svg" alt="$ whoami"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/whoami.svg?v=3" alt="$ whoami"></h2>
 
 I find problems that annoy me and build the fix. <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/cursor.svg" alt="" height="18" align="top">
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-products.svg" alt="$ ls products/"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-products.svg?v=3" alt="$ ls products/"></h2>
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ Every NCERT textbook, free and actually searchable. Built because the official p
 </tr>
 </table>
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-projects.svg" alt="$ ls projects/"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-projects.svg?v=3" alt="$ ls projects/"></h2>
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 </tr>
 </table>
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-stack.svg" alt="$ cat stack.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-stack.svg?v=3" alt="$ cat stack.txt"></h2>
 
 <table>
 <tr><td><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c" height="38" alt="Python, TypeScript, JavaScript, C++, C"></td></tr>
@@ -118,7 +118,7 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 <tr><td><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <b>Infra</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,railway,vercel" height="38" alt="Docker, GitHub Actions, Railway, Vercel"> &nbsp;<code>n8n</code></td></tr>
 </table>
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-log.svg" alt="$ git log --author=sudhanshu"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-log.svg?v=3" alt="$ git log --author=sudhanshu"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Co-founder · [Magnifi](https://www.getmagnifi.com "getmagnifi.com")** — *Mar 2026 – present*<br>
 Onboarded 20+ teams now pushing 118K messages a month. Per-org encryption at rest, AI escalation flagging across 7 categories, and retrieval-backed chat search over 16K+ conversations.
@@ -141,7 +141,7 @@ Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
 Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-graph.svg" alt="$ git log --graph"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-graph.svg?v=3" alt="$ git log --graph"></h2>
 
 <p align="center">
   <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/contributions.svg" alt="511 contributions in the last year" width="100%">
@@ -149,19 +149,19 @@ Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier
 
 <p align="center"><sub>511 contributions in the last year · private repos included — most of what I ship isn’t public</sub></p>
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-education.svg" alt="$ cat education.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-education.svg?v=3" alt="$ cat education.txt"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **B.Tech. (Hons.), Metallurgical and Materials Engineering** — *IIT Kharagpur, 2023 – 2027*<br>
 Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Innovation**
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-awards.svg" alt="$ cat awards.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-awards.svg?v=3" alt="$ cat awards.txt"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Contingent Gold**, Inter IIT Tech Meet — *2024 and 2025*, with the IIT Kharagpur contingent<br>
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **National Finalist**, Crisis Consulting Case Study Competition — *SRCC Delhi, 2024*<br>
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Tata Scholarship**, INR 75,000/year, and the **Jagran Genius Award** for Class XII<br>
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Consultant, WorldQuant Brain** — 6 commissioned alphas across regions and operations
 
-<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg" alt="$ cat contact.txt"></h2>
+<h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg?v=3" alt="$ cat contact.txt"></h2>
 
 <p align="center">
   <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/available.svg" alt="Open to conversations">
