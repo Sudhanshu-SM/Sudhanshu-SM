@@ -6,7 +6,7 @@
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/whoami.svg?v=3" alt="$ whoami"></h2>
 
-I find problems that annoy me and build the fix. <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/cursor.svg" alt="" height="18" align="top">
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/whoami.svg" alt="I find problems that annoy me and build the fix." width="100%"> <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/cursor.svg" alt="" height="18" align="top">
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/ls-products.svg?v=3" alt="$ ls products/"></h2>
 
@@ -16,9 +16,9 @@ I find problems that annoy me and build the fix. <img src="https://sudhanshu-sm.
 
 ### [Magnifi](https://www.getmagnifi.com "getmagnifi.com — multi-tenant WhatsApp CRM")
 
-Per-org encrypted multi-inbox WhatsApp CRM. AI escalation flagging, workflow automations, and *ask magnifi* answering questions across org chats on Claude Haiku.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-magnifi.svg" alt="Per-org encrypted multi-inbox WhatsApp CRM. AI escalation flagging, workflow automations, " width="100%">
 
-**20+ teams · 118K messages/month · 200K+ handled**
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/m-magnifi.svg" alt="**20+ teams · 118K messages/month · 200K+ handled**" width="100%">
 
 `Next.js 14` `Express` `Supabase` `Claude`
 
@@ -29,9 +29,9 @@ Per-org encrypted multi-inbox WhatsApp CRM. AI escalation flagging, workflow aut
 
 ### [RekZon](https://rekzon.com "rekzon.com — AI-native recruiting platform")
 
-Kanban candidate pipeline with AI matching against the JD, one-click bulk WhatsApp and email outreach, recruiter analytics, a Chrome extension and an Android dialer.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-rekzon.svg" alt="Kanban candidate pipeline with AI matching against the JD, one-click bulk WhatsApp and ema" width="100%">
 
-**10+ clients on trial · Reklis extension, 10+ users**
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/m-rekzon.svg" alt="**10+ clients on trial · Reklis extension, 10+ users**" width="100%">
 
 `Vite` `Node` `Supabase` `Expo`
 
@@ -42,9 +42,9 @@ Kanban candidate pipeline with AI matching against the JD, one-click bulk WhatsA
 
 ### [easycbse](https://www.easycbse.com "easycbse.com — free NCERT textbooks")
 
-Every NCERT textbook, free and actually searchable. Built because the official portal isn't.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-easycbse.svg" alt="Every NCERT textbook, free and actually searchable. Built because the official portal isn'" width="100%">
 
-**Fast downloads, every class and subject**
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/m-easycbse.svg" alt="**Fast downloads, every class and subject**" width="100%">
 
 `Next.js` `TypeScript`
 
@@ -62,7 +62,7 @@ Every NCERT textbook, free and actually searchable. Built because the official p
 
 ### [Project-Mahabharat](https://github.com/Sudhanshu-SM/Project-Mahabharat "RAG chatbot over 30+ ingested books")
 
-A chatbot that holds a conversation in character as figures from the Mahabharata. RAG over 30+ ingested books.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-mahabharat.svg" alt="A chatbot that holds a conversation in character as figures from the Mahabharata. RAG over" width="100%">
 
 `Flask` `LangChain` `Groq` `Pinecone`
 
@@ -73,7 +73,7 @@ A chatbot that holds a conversation in character as figures from the Mahabharata
 
 ### [GuessStupid](https://github.com/Sudhanshu-SM/GuessStupid "Daily multi-genre guessing game")
 
-Daily guessing game. Five hints per puzzle, vague to precise, same five challenges worldwide at midnight UTC.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-guessstupid.svg" alt="Daily guessing game. Five hints per puzzle, vague to precise, same five challenges worldwi" width="100%">
 
 `Next.js` `TypeScript`
 
@@ -86,7 +86,7 @@ Daily guessing game. Five hints per puzzle, vague to precise, same five challeng
 
 ### [sanatan-smile](https://github.com/Sudhanshu-SM/sanatan-smile "Shlokas with syllable-level audio alignment")
 
-Learn and chant shlokas with pronunciation, tune and meaning. Syllable-level audio alignment so the text follows you.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-sanatan.svg" alt="Learn and chant shlokas with pronunciation, tune and meaning. Syllable-level audio alignme" width="100%">
 
 `React` `TypeScript` `Supabase`
 
@@ -97,7 +97,7 @@ Learn and chant shlokas with pronunciation, tune and meaning. Syllable-level aud
 
 ### [ICC-2026](https://github.com/Sudhanshu-SM/ICC-2026 "Indian Case Challenge 2026 — 9,700+ participants")
 
-Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/p-icc.svg" alt="Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions." width="100%">
 
 `HTML` `CSS` `JavaScript`
 
@@ -121,25 +121,25 @@ Site for the Indian Case Challenge. 9,700+ participants from 1,000+ institutions
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-log.svg?v=3" alt="$ git log --author=sudhanshu"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Co-founder · [Magnifi](https://www.getmagnifi.com "getmagnifi.com")** — *Mar 2026 – present*<br>
-Onboarded 20+ teams now pushing 118K messages a month. Per-org encryption at rest, AI escalation flagging across 7 categories, and retrieval-backed chat search over 16K+ conversations.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-magnifi.svg" alt="Onboarded 20+ teams now pushing 118K messages a month. Per-org encryption at rest, AI esca" width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founder · [RekZon](https://rekzon.com "rekzon.com")** — *Apr 2026 – present*<br>
-Recruiting platform on free trial with 10+ clients. JD matching, bulk outreach, org-wide analytics, a Chrome extension with 10+ users, and an Android dialer with AI-scored transcripts.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-rekzon.svg" alt="Recruiting platform on free trial with 10+ clients. JD matching, bulk outreach, org-wide a" width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Product Intern · FreeFlow Advisors LLP** — *Mar – May 2026*<br>
-Defined the data model for Indian education — category-wise cutoffs through coaching coverage. Scrapers turned scattered public records into a queryable base of 100K+ colleges and 500K+ schools.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-freeflow.svg" alt="Defined the data model for Indian education — category-wise cutoffs through coaching cover" width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Founder’s Office Intern · [Superhyre](https://www.superhyre.com "superhyre.com")** — *Dec 2025 – Jul 2026*<br>
-Postgres with pgvector embeddings behind an AppSmith dashboard, a waterfall enrichment pipeline chaining Apollo and ContactOut to cut cost per contact, and an AI voice agent screening candidates at sub-second latency.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-superhyre.svg" alt="Postgres with pgvector embeddings behind an AppSmith dashboard, a waterfall enrichment pip" width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Technical Head · Business Club, IIT Kharagpur** — *Aug 2023 – Apr 2026*<br>
-Negotiated HCLTech and CFA Institute as sponsors of the Indian Case Challenge 2026, raising INR 5L+ in prizes. Led a 70-member publicity team across 1,000+ institutes to 9,700+ participants, 300+ international.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-bizclub.svg" alt="Negotiated HCLTech and CFA Institute as sponsors of the Indian Case Challenge 2026, raisin" width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Intern · IIT Roorkee** — *Jun – Aug 2024*<br>
-Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-roorkee.svg" alt="Q-learning agent reaching a 0.75 win probability, under Prof. Sudip Roy." width="100%">
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Intern · XLRI Jamshedpur** — *May – Jun 2024*<br>
-Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9931.
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/x-xlri.svg" alt="Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier at F1 0.9" width="100%">
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/git-graph.svg?v=3" alt="$ git log --graph"></h2>
 
@@ -152,14 +152,14 @@ Bankruptcy prediction over 7,000+ companies and 95 features. Stacking classifier
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-education.svg?v=3" alt="$ cat education.txt"></h2>
 
 <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **B.Tech. (Hons.), Metallurgical and Materials Engineering** — *IIT Kharagpur, 2023 – 2027*<br>
-Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Innovation**
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/edu.svg" alt="Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneurship and Inno" width="100%">
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-awards.svg?v=3" alt="$ cat awards.txt"></h2>
 
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Contingent Gold**, Inter IIT Tech Meet — *2024 and 2025*, with the IIT Kharagpur contingent<br>
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **National Finalist**, Crisis Consulting Case Study Competition — *SRCC Delhi, 2024*<br>
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Tata Scholarship**, INR 75,000/year, and the **Jagran Genius Award** for Class XII<br>
-<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> **Research Consultant, WorldQuant Brain** — 6 commissioned alphas across regions and operations
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/aw-interiit.svg" alt="**Contingent Gold**, Inter IIT Tech Meet — *2024 and 2025*, with the IIT Kharagpur conting" width="100%"><br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/aw-srcc.svg" alt="**National Finalist**, Crisis Consulting Case Study Competition — *SRCC Delhi, 2024*" width="100%"><br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/aw-tata.svg" alt="**Tata Scholarship**, INR 75,000/year, and the **Jagran Genius Award** for Class XII" width="100%"><br>
+<img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/fx/node.svg" alt="" height="12"> <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/aw-wq.svg" alt="**Research Consultant, WorldQuant Brain** — 6 commissioned alphas across regions and opera" width="100%">
 
 <h2><img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/headings/cat-contact.svg?v=3" alt="$ cat contact.txt"></h2>
 
@@ -168,7 +168,7 @@ Minor in **Artificial Intelligence** · Micro Specialization in **Entrepreneursh
 </p>
 
 <p align="center">
-  Building something in recruiting, edtech or agents? I’d like to hear about it.
+  <img src="https://sudhanshu-sm.github.io/Sudhanshu-SM/body/cta.svg" alt="Building something in recruiting, edtech or agents? I'd like to hear about it." width="100%">
 </p>
 
 <p align="center">
